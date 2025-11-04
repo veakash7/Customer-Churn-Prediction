@@ -1,7 +1,6 @@
 # Customer Churn Prediction & Deployment (Python, Sklearn, Streamlit)
 
-[Insert a GIF of your Streamlit app in action]
-
+![Streamlit App Demo]("C:\Users\akash\Downloads\photossss\Animation.gif")
 ### 1. Project Aim & Business Value
 
 The aim of this project is to save the company money by building a "warning system" model. This model predicts which customers are likely to churn (leave), allowing the business to proactively retain them. This is critical because acquiring new customers is far more expensive than keeping existing ones.
